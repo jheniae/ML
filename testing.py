@@ -50,4 +50,4 @@ plt.ylabel(u'длина лепестка')
 plt.legend(loc='upper left')
 plt.show()
 
-
+"""rrewerwrwercssdfsdfs"""
